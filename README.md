@@ -9,3 +9,9 @@ y tecnologías relacionadas con los sistemas informáticos.
 - Aprender a utilizar Git y GitHub.
 - Trabajar con repositorios y ramas.
 - Aprender a colaborar en proyectos con otras personas.
+
+
+## Mis proyectos
+
+- Proyecto 1: Mi primer repositorio en GitHub.
+- Proyecto 2: Prácticas de sistemas y redes de ASIR.
